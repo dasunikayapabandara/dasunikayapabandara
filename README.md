@@ -2,7 +2,7 @@
 
 I'm [Dasunika Yapabandara], a passionate [Computer Science Student] from [NSBM Green University]. Welcome to my GitHub profile! 
 
-<img src="https://i.pinimg.com/736x/bd/ea/ab/bdeaabccb97914ec3b6171671201ea6c.jpg" alt="Profile Picture" width="200" height="200">
+
 
 - 🌱 I'm currently [Undergraduate Student].
 - 📫 How to reach me: [yapabandaradasunika@gmail.com].
