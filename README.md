@@ -37,15 +37,7 @@ Feel free to explore my repositories and reach out with any questions or collabo
         <title id="titleId">Dasunika's Github Stats, Rank: C</title>
         <desc id="descId">Total Stars Earned: 0, Total Commits in 2024 : 72, Total PRs: 5, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
-          .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #58a6fe;
-            animation: fadeInAnimation 0.8s ease-in-out forwards;
-          }
-          @supports(-moz-appearance: auto) {
-            /* Selector detects Firefox */
-            .header { font-size: 15.5px; }
-          }
+         
           
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
